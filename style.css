@@ -1,26 +1,19 @@
-#canvas{
-    background-color: coral;
-    height: 500px;
-    width: 500px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+input{
+   border-radius: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color: palevioletred;
 }
 
-#score{
-    color: bisque;
-    font-size: 48px;
+button{
+   border-radius: 10px;
+   padding: 5px;
+   background-color: mediumpurple;
 }
 
-#button{
-    background-color: beige;
-    height: 200px;
-    width: 200px;
-    border-radius: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 40;
-    color: blueviolet;
-}   
+
+#form-container{
+   background-color: lightsteelblue;
+   border-radius: 10px;
+   text-align: center;
+}
